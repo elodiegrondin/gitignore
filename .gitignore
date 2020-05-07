@@ -12,6 +12,11 @@
 
 ## RESOURCES
 /htdocs/volumes/*
+!/htdocs/volumes/.gitkeep
+/htdocs/assets/*
+!/htdocs/assets/.gitkeep
+/htdocs/cpresources/*
+!/htdocs/cpresources/.gitkeep
 
 ## BUILD FILES
 /bower_components/*
